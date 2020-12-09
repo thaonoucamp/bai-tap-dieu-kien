@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai-tap-5</title>
+</head>
+<body>
+<script>
+    let a = +prompt("Moi nhap diem kiem tra : ");
+    let b = +prompt("Moi nhap diem thi giua ky : ");
+    let c = +prompt("Moi nhap diem thi cuoi ky : ");
+    let f = (a+b+c)/3;
+
+    function checkRank() {
+        if (f <= 10 && f >= 8) {
+                alert("Hoc sinh xep hang A");
+            }
+        if (f < 8 && f >= 6.5) {
+                alert("Hoc sinh xep hang B");
+            }
+        if (f < 6.5 && f >= 5) {
+                alert("Hoc sinh xep hang C");
+            }
+        if (f < 5) {
+                alert("Hoc sinh xep hang D");
+            }
+    }
+    checkRank();
+</script>
+</body>
+</html>
