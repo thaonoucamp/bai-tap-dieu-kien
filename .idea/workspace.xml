@@ -29,6 +29,7 @@
       <change afterPath="$PROJECT_DIR$/../addProduct/demo.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../addProduct/demo.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../addProduct/editProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkAge.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/checkMod.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../casestudy/ControlProduct.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../function1/calFunction.html" afterDir="false" />
@@ -95,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607481770428</updated>
-      <workItem from="1607481771581" duration="982000" />
+      <workItem from="1607481771581" duration="2624000" />
     </task>
     <servers />
   </component>
@@ -107,5 +108,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607482800285" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1607484514592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607484514592" />
   </component>
 </project>
