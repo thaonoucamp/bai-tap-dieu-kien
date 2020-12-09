@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai-tap-6</title>
+</head>
+<body>
+<script>
+    let sale = +prompt("Nhap doanh so ban hang : ");
+    let rose = sale/100;
+    function checkRose() {
+        if (sale > 20 && sale < 50 ) {
+           rose = sale / 50;
+            alert("tien hoa hong la : "+rose+" :trieu dong : la 2%");
+        }if (sale > 50) {
+           rose = sale / 20;
+            alert("tien hoa hong la : "+rose+ " :trieu dong : la 5%");
+        }
+    }
+    checkRose();
+</script>
+</body>
+</html>
