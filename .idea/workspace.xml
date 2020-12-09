@@ -29,7 +29,7 @@
       <change afterPath="$PROJECT_DIR$/../addProduct/demo.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../addProduct/demo.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../addProduct/editProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkRose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkCostPhone.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../casestudy/ControlProduct.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../function1/calFunction.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../function1/checkPrime.html" afterDir="false" />
@@ -57,8 +57,6 @@
       <change beforePath="$PROJECT_DIR$/../ARRAY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ARRAY/addItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/addItem.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ARRAY/coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/coach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607481770428</updated>
       <workItem from="1607481771581" duration="8237000" />
-      <workItem from="1607495557951" duration="1691000" />
+      <workItem from="1607495557951" duration="2694000" />
     </task>
     <servers />
   </component>

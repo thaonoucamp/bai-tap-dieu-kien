@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai-tap-7</title>
+</head>
+<body>
+<script>
+    let cost = 2000;
+    let teleDad = +prompt("nhap so phut goi cua Dad :");
+    let teleMom = +prompt("nhap so phut goi cua Dad :");
+    let teleSon = +prompt("nhap so phut goi cua Dad :");
+    let checkCost;
+    function checkCostTele() {
+        if (teleDad > 0 && teleMom > 0 && teleSon > 0) {
+            checkCost = (teleSon + teleMom + teleDad) * cost;
+        }
+        document.write("gia cuoc dien thoai ca gia dinh la : "+checkCost);
+    }
+    checkCostTele();
+</script>
+</body>
+</html>
